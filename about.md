@@ -1,15 +1,13 @@
 ---
 layout: page
-title: About
+title: Sobre mim
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Sou Contador da Prefeitura de Independência (RS) e tenho como paixão e principal hobby a programação com PHP.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Atualmente moro em Três de Maio (RS), no entanto sou natural de Tucunduva (RS). Já morei em Restinga Seca (RS), São Miguel das Missões (RS) e Santo Ângelo (RS). Servi ao Exército Brasileiro por sete anos, como Recurta, Soldado NB e Cabo NB.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+Quando desincorporei do Exército, fui trabalhar na Controladoria do Grupo Alibem Alimentos S.A. De lá, sai para trabalhar na CORSAN.
+
+Atualmente sou Contador (concursado) da Prefeitura de Independência (RS).
