@@ -7,6 +7,7 @@ SITENAME = 'Everton da Rosa'
 SITEURL = 'https://everton3x.github.io'
 
 PATH = 'content'
+OUTPUT_PATH = 'docs/'
 
 TIMEZONE = 'America/Sao_Paulo'
 
