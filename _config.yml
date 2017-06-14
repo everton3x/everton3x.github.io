@@ -37,3 +37,5 @@ defaults:
     values:
       layout: "page"
       author: "Everton da Rosa"
+
+theme: jekyll-theme-minimal
