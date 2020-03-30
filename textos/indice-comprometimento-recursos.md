@@ -11,3 +11,17 @@ Por isso é mister que o administrador público tenha à disposição ferramenta
 
 O ICR mede o quanto dos recursos financeiros disponíveis em determinado período estão comprometidos com as despesas do ente público, fazendo isso através de um quociente entre os desembolsos e os ingressos de caixa futuros.
 
+(+) Recursos financeiros brutos
+(+) Receita prevista a arrecadar
+(+) Saldo de depósitos e consignações
+(+) Outros saldos e ingressos financeiros extra-orçamentários
+(=) Recursos disponíveis para o período
+
+(+) Despesa empenhada e não paga
+(+) Restos a Pagar (processados ou não)
+(+) Despesa fixada atualizada a empenhar
+(+) Depósitos e consignações a recolher
+(+) Outros dispêndios financeiros extra-orçamentários
+(=) Necessidade total de recursos para o período
+
+ICR = Necessidade total / Recursos disponíveis
