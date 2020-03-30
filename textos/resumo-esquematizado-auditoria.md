@@ -10,6 +10,10 @@ A auditoria confronta o que deveria ser com aquilo que efetivamente é, e encont
 
 ## Tipos
 
+![Diagrama dos tipos de auditoria](assets/auditoria-tipos.png "Diagrama dos tipos de auditoria")
+
+*Diagrama dos tipos de auditoria - elaborado pelo autor.*
+
 ## Diferença entre a Auditoria Interna e Externa
 
 Auditoria | Interna | Externa
