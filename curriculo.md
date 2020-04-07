@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Excel: Gráficos, inforgráficos e Dashboards Profissionais** - *Udemy* - abr. 2020 - 21,5 horas/aula
+
 **Introdução à Ciência de Dados 2.0** – *Data Science Academy* – mar. 2020 – 8 horas/aula
 
 **Estatística** – *Escola Nacional de Administração Pública* – fev. 2020 – 20 horas/aula
