@@ -34,6 +34,10 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Gerenciamento de projetos - Fundamentos** - *Treinaweb Tecnologia* - abr. 2020 - 22 horas/aula
+
+**Kanban - Fundamentos** - *Treinaweb Tecnologia* - abr. 2020 - 4 horas/aula
+
 **Excel: Gráficos, inforgráficos e Dashboards Profissionais** - *Udemy* - abr. 2020 - 21,5 horas/aula
 
 **Introdução à Ciência de Dados 2.0** – *Data Science Academy* – mar. 2020 – 8 horas/aula
