@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Gerenciamento de projetos - Avançado** - *Treinaweb Tecnologia* - abr. 2020 - 26 horas/aula
+
 **Gerenciamento de projetos - Fundamentos** - *Treinaweb Tecnologia* - abr. 2020 - 22 horas/aula
 
 **Kanban - Fundamentos** - *Treinaweb Tecnologia* - abr. 2020 - 4 horas/aula
