@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Introdução ao ReactJS** - *Digital Innovation One* - mai. 2020 - 3 horas/aula
+
 **Gerenciamento de projetos - Avançado** - *Treinaweb Tecnologia* - abr. 2020 - 26 horas/aula
 
 **Gerenciamento de projetos - Fundamentos** - *Treinaweb Tecnologia* - abr. 2020 - 22 horas/aula
