@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Arquitetura de Sistemas Avançado** - *Digital Innovation One* - jun. 2020 - 3 horas/aula
+
 **Desenvolvimento avançado com JavaScript ES6** - *Digital Innovation One* - mai. 2020 - 5 horas/aula
 
 **Curso de Portugês e Redação Administrativa - Edição 2** - *Escola Superior de Gestão e Controle Francisco Juruena* - jun. 2020 - 30 horas/aula
