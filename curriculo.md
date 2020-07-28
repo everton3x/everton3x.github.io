@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Curso sobre Elaboração da Lei de Diretrizes Orçamentárias – LDO para 2021** – *DPM Educação/FEMA* – jul. 2020 – 8 horas/aula
+
 **Arquitetura de Sistemas Avançado** - *Digital Innovation One* - jun. 2020 - 3 horas/aula
 
 **Desenvolvimento avançado com JavaScript ES6** - *Digital Innovation One* - mai. 2020 - 5 horas/aula
@@ -68,7 +70,7 @@ IESA
 
 **Curso sobre Contabilidade Aplicada ao Setor Público – Módulo Avançado** – *DPM Educação/FEMA* – jun. 2019 – 15 horas/aula
 
-**Curso sobre Elaboração da lei de Diretrizes Orçamentárias – LDO para 2020** – *DPM Educação/FEMA* – jun. 2019 – 13 horas/aula
+**Curso sobre Elaboração da Lei de Diretrizes Orçamentárias – LDO para 2020** – *DPM Educação/FEMA* – jun. 2019 – 13 horas/aula
 
 **Curso sobre Retenções de IRRF – Novo Regulamento Estabelecido pelo Decreto Federal nº 9.580/2018** – *DPM Educação/FEMA* – mai. 2019 – 13 horas/aula
 
