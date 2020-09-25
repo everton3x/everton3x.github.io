@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Curso Online sobre Elaboração do Orçamento para 2021** – *DPM Educação/FEMA* – set. 2020 – 8 horas/aula
+
 **Curso sobre Elaboração da Lei de Diretrizes Orçamentárias – LDO para 2021** – *DPM Educação/FEMA* – jul. 2020 – 8 horas/aula
 
 **Arquitetura de Sistemas Avançado** - *Digital Innovation One* - jun. 2020 - 3 horas/aula
