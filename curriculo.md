@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Curso Online sobre Fundeb: entendendo as disposições da EC nº 108/2020** – *DPM Educação/FEMA* – set. 2020 – 4 horas/aula
+
 **Curso Online sobre Elaboração do Orçamento para 2021** – *DPM Educação/FEMA* – set. 2020 – 8 horas/aula
 
 **Curso sobre Elaboração da Lei de Diretrizes Orçamentárias – LDO para 2021** – *DPM Educação/FEMA* – jul. 2020 – 8 horas/aula
