@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Curso Online sobre Encerramento do Exercício** – *DPM Educação/FEMA* – nov. 2020 – 10 horas/aula
+
 **Curso Online sobre Fundeb: entendendo as disposições da EC nº 108/2020** – *DPM Educação/FEMA* – set. 2020 – 4 horas/aula
 
 **Curso Online sobre Elaboração do Orçamento para 2021** – *DPM Educação/FEMA* – set. 2020 – 8 horas/aula
