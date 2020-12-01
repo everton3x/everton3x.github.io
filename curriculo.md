@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**SIAPC 22ª Edição 2020 - Partes 1 e 2** – *Escola Superior de Gestão e Controle Francisco Juruena* – nov. 2020 – 4 horas/aula
+
 **Curso Online sobre Encerramento do Exercício** – *DPM Educação/FEMA* – nov. 2020 – 10 horas/aula
 
 **Curso Online sobre Fundeb: entendendo as disposições da EC nº 108/2020** – *DPM Educação/FEMA* – set. 2020 – 4 horas/aula
