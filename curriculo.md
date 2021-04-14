@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Curso ao Vivo: Elaboração do PPA - Plano Plurianual 2022-2025** – *DPM Educação/FEMA* – abr. 2021 – 8 horas/aula
+
 **Formação Cientista de Dados com Python e R** - *Fernando Amaral & Udemy* - dez. 2020 - 41.5 horas/aula
 
 **SIAPC 22ª Edição 2020 - Partes 1 e 2** – *Escola Superior de Gestão e Controle Francisco Juruena* – nov. 2020 – 4 horas/aula
