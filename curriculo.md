@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Capacitação dos Municípios para a Elaboração dos Planos Plurianuais 2022-2025** – *Escola de Governo/Secretaria de Planejamento, Governança e Gestão do RS* – abr. 2021 – 40 horas/aula
+
 **Curso Online sobre a Elaboração do Plano de Ação para Implantação do Padrão Mínimo de Qualidade do Sistema Único e Integradso de Execução Orçamentária, Administração Financeira e Controle (SIAFIC)** – *DPM Educação/FEMA* – abr. 2021 – 8 horas/aula
 
 **Curso ao Vivo: Elaboração do PPA - Plano Plurianual 2022-2025** – *DPM Educação/FEMA* – abr. 2021 – 8 horas/aula
