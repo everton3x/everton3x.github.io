@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Microsoft Power BI para Data Science, Versão 2.0** - *Data Science Acacemy* - mai. 2021 - 72 horas/aula
+
 **Curso sobre a SIOPE - Operacionalização do sistema com Ênfase nas Alterações** – *DPM Educação/FEMA* – abr. 2021 – 4 horas/aula
 
 **Capacitação dos Municípios para a Elaboração dos Planos Plurianuais 2022-2025** – *Escola de Governo/Secretaria de Planejamento, Governança e Gestão do RS* – abr. 2021 – 40 horas/aula
