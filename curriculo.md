@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Curso Online sobre Classificação Orçamentária da Receita e da Despesa e a Lei Orçamentária Anual (LOA)** - *DPM Educação/FEMA* - set. 2021 - 8 horas/aula
+
 **Curso Online sobre Elaboração da LDO para 2022** – *DPM Educação/FEMA* – jul. 2021 – 8 horas/aula
 
 **Microsoft Power BI para Data Science, Versão 2.0** - *Data Science Acacemy* - mai. 2021 - 72 horas/aula
