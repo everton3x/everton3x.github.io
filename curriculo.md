@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Curso Prático - Análise da conformidade dos Balancetes Contábeis das Entidades Públicas e seus Reflexos nas DCASP** - *DPM Educação/FEMA* - out. 2021 - 16 horas/aula
+
 **Curso Online sobre Classificação Orçamentária da Receita e da Despesa e a Lei Orçamentária Anual (LOA)** - *DPM Educação/FEMA* - set. 2021 - 8 horas/aula
 
 **Curso Online sobre Elaboração da LDO para 2022** – *DPM Educação/FEMA* – jul. 2021 – 8 horas/aula
