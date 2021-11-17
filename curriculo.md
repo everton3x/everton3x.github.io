@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**SIOPS - Sistema de Informações sobre Orçamentos Públicos em Saúde** - *Escola da Federação das Associações de Municípios do Rio Grande do sul* - nov. 2021 - 12 horas/aula
+
 **52º Curso On-line sobre Orçamento e Contabilidade Pública** - *DPM Educação/FEMA* - out. 2021 - 8 horas/aula
 
 **Curso Prático - Análise da conformidade dos Balancetes Contábeis das Entidades Públicas e seus Reflexos nas DCASP** - *DPM Educação/FEMA* - out. 2021 - 16 horas/aula
