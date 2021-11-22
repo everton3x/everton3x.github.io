@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Curso Online sobre Encerramento do Exercício de 2021** - *DPM Educação/FEMA* - nov. 2021 - 9 horas/aula
+
 **SIAPC 23ª Edição 2021 - Partes 1 e 2** – *Escola Superior de Gestão e Controle Francisco Juruena* – nov. 2021 – 4 horas/aula
 
 **SIOPS - Sistema de Informações sobre Orçamentos Públicos em Saúde** - *Escola da Federação das Associações de Municípios do Rio Grande do sul* - nov. 2021 - 12 horas/aula
