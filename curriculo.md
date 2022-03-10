@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Curso Online sobre Imposto de Renda Retido na Fonte de acordo com a Tese fixada no RE 1.293.453 (STF) e a IN 1.234/2012** - *DPM Educação/FEMA* - mar. 2022 - 7 horas/aula
+
 **Curso Online sobre Encerramento do Exercício de 2021** - *DPM Educação/FEMA* - nov. 2021 - 9 horas/aula
 
 **SIAPC 23ª Edição 2021 - Partes 1 e 2** – *Escola Superior de Gestão e Controle Francisco Juruena* – nov. 2021 – 4 horas/aula
