@@ -34,6 +34,12 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Python Fundamentos para Análise de Dados 3.0** - *Data Science Academy* - abr. 2022 - 60 horas/aula
+
+**Curso online sobre Escrituração Fiscal Digital de Retenções e Outras Informações Fiscais EFD-Reinf: contratação de pessoas jurídicas e outras informações não relacionadas ao trabalho** - *DPM Educação/FEMA* - abr. 2022 - 4,5 horas/aula
+
+**Curso online sobre eSocial: início da terceira fase em 22/04/2022** - *DPM Educação/FEMA* - abr. 2022 - 4 horas/aula
+
 **Curso sobre Matriz de Saldos Contábeis (MSC), práticas de conferência do Demonstrativo de Contas Anuais (DCA) e vinculação das fontes de recursos para 2022 segundo orientações da STN** - *DPM Educação/FEMA* - abr. 2022 - 11,5 horas/aula
 
 **Curso Online sobre Análise e Conferência dos Demonstrativos integrantes do Relatório Resumido de Execução Orçamentária - RREO no âmbito do TCE/RS e da STN** - *DPM Educação/FEMA* - mar. 2022 - 8 horas/aula
