@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Data Storytelling e Visualização de Dados [2022]*** - *Udemy Instrutores Fernando Amaral e Jushua Brindley* - mai. 2022 - 6,5 horas/aula
+
 **Python Fundamentos para Análise de Dados 3.0** - *Data Science Academy* - abr. 2022 - 60 horas/aula
 
 **Curso online sobre Escrituração Fiscal Digital de Retenções e Outras Informações Fiscais EFD-Reinf: contratação de pessoas jurídicas e outras informações não relacionadas ao trabalho** - *DPM Educação/FEMA* - abr. 2022 - 4,5 horas/aula
