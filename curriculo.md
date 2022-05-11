@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Dashboards Matadores: Domine a Arte de Apresentação de Dados** - *EIA - Escola de Inteligência Artificial* - mai. 2022 - 3 horas/aula
+
 **Data Storytelling e Visualização de Dados [2022]*** - *Udemy Instrutores Fernando Amaral e Jushua Brindley* - mai. 2022 - 6,5 horas/aula
 
 **Python Fundamentos para Análise de Dados 3.0** - *Data Science Academy* - abr. 2022 - 60 horas/aula
