@@ -34,6 +34,8 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
+**Curso sobre Análise e Conferência dos Demonstrativos integrantes do Relatório de Gestão Fiscal - RGF no âmbito do TCE/RS e da STN** - *DPM Educação/FEMA* - mai. 2022 - 10 horas/aula
+
 **Dashboards Matadores: Domine a Arte de Apresentação de Dados** - *EIA - Escola de Inteligência Artificial* - mai. 2022 - 3 horas/aula
 
 **Data Storytelling e Visualização de Dados [2022]*** - *Udemy Instrutores Fernando Amaral e Jushua Brindley* - mai. 2022 - 6,5 horas/aula
