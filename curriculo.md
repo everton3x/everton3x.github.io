@@ -34,7 +34,7 @@ IESA
 
 ## Aperfeiçoamento Profissional
 
-**Formação Analista de Business Intelligence com Power BI*** - *Udemy Instrutor Fernando Amaral* - jun. 2022 - 8 horas/aula
+**Formação Analista de Business Intelligence com Power BI** - *Udemy Instrutor Fernando Amaral* - jun. 2022 - 8 horas/aula
 
 **Curso sobre Análise e Conferência dos Demonstrativos integrantes do Relatório de Gestão Fiscal - RGF no âmbito do TCE/RS e da STN** - *DPM Educação/FEMA* - mai. 2022 - 10 horas/aula
 
