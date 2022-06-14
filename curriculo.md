@@ -2,7 +2,7 @@
 
 # Everton da Rosa
 
-*Contador Público (CRC RS-076595/O-3), Servidor Público Municipal na Prefeitura de independência (RS)*
+*Contador Público (CRC RS-076595/O-3), Servidor Público Municipal na Prefeitura de Independência (RS)*
 
 -----
 
@@ -20,19 +20,69 @@
 
 **Prefeitura Municipal de Independência (RS) – desde setembro de 2009**
 
-*Contador, responsável pelo Serviço de Contabilidade do Executivo e seus fundos e do Legislativo.*
+*Contador, responsável pelo Serviço de Contabilidade do Executivo e seus fundos, e do Legislativo.*
 
 Foi membro das comissões de Licitação (Presidente) e de Pregão (Pregoeiro), além de integrar diversas comissões, tais como de transição de mandato, Controle Interno, entre outras.
+
+
+**Prefeitura Municipal de Nova Candelária (RS) - entre junho de 2019 e maio de 2020 (1 ano)**
+
+*Consultor de contabilidade*
+
+Atividade de consultoria e mentoria para servidora ingressante no cargo de Contadora do Município.
+
+
+**Companhia Riograndense de Saneamento – Corsan - entre fevereiro de 2007 e setembro de 2009 (2 anos e 8 meses)**
+
+*Agente Administrativo / Cruz Alta (RS) e Santo Ângelo (RS)*
+
+Desempenhou funções administrativas, envolvendo-se profundamente com a equipe de qualidade, participando ativamente do processo de gestão da
+qualidade e participação no Prêmio Gaúcho de Qualidade e Produtividade - PGQP e Prêmio Nacional de Qualidade do Saneamento -PNQS.
+
+
+**Alibem Alimentos S.A - entre julho de 2006 e fevereiro de 2007 (8 meses)**
+
+*Agente Administrativo / Santa Rosa (RS)*
+
+Atuou no assessoramento do Controller do grupo, sendo responsável
+por diversos procedimentos de auditoria interna, em especial na folha de
+pagamentos.
+Desenvolveu um sistema para gestão de estoques de grãos da Fábrica de
+Ração do grupo.
+
+
+**Exército Brasileiro / Hospital de Guarnição de Santo Ângelo - entre julho de 2000 e julho de 2006 (6 anos 1 mês)**
+
+*Recruta / Soldado do Núcleo-Base / Cabo*
+
+Lotado inicialmente na Ajudância/Secretaria onde era responsável por
+diversas atividades administrativas. Posteriormente foi transferido para a
+Seção de Informática onde desenvolveu vários sistemas para informatização
+de tarefas. Também foi responsável pela introdução de rotinas de cópia de
+segurança do conteúdo digital da organização além de ter sido gestor de
+Intranet. Em seguida, foi lotado no Setor de Compras e Licitações, sendo
+membro da equipe de apoio para a realização de pregão eletrônico.
 
 -----
 
 ## Formação Acadêmica:
 
-IESA
+**Universidade Regional Integrada do Alto Uruguai e das Missões - URI**
+
+*Santo Ângelo (RS)*
+
+Especialização Lato Sensu, Contabilidade e Finanças - (2006 - 2008)
+
+
+**Instituto Cenecista de Ensino Superior de Santo Ângelo (IESA)**
+
+*Santo Ângelo (RS)*
+
+Bacharelado, Contabilidade - (2002 - 2005)
 
 -----
 
-## Aperfeiçoamento Profissional
+## Aperfeiçoamento Pessoal e Profissional
 
 **Formação Analista de Business Intelligence com Power BI** - *Udemy Instrutor Fernando Amaral* - jun. 2022 - 8 horas/aula
 
