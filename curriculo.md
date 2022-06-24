@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso sobre Ranking da Qualidade da Informação Contábil e Fiscal no SICONFI - ênfase nas informações dos Municípios** - *DPM Educação/FEMA* - jun. 2022 - 10 horas/aula
+
 **Formação Analista de Business Intelligence com Power BI** - *Udemy Instrutor Fernando Amaral* - jun. 2022 - 8 horas/aula
 
 **Curso sobre Análise e Conferência dos Demonstrativos integrantes do Relatório de Gestão Fiscal - RGF no âmbito do TCE/RS e da STN** - *DPM Educação/FEMA* - mai. 2022 - 10 horas/aula
