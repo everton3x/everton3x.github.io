@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**14º ERCO - Tema 8 - Alterações no cálculo de despesa com pessoal e nos índices constitucionais de MDE e ASPS** - *Escola Superior de Gestão e Controle Francisco Juruena/Tribunal de Contas do Estado do Rio Grande do Sul* - jun. 2022 - 1,25 horas/aula
+
 **Curso sobre Ranking da Qualidade da Informação Contábil e Fiscal no SICONFI - ênfase nas informações dos Municípios** - *DPM Educação/FEMA* - jun. 2022 - 10 horas/aula
 
 **Formação Analista de Business Intelligence com Power BI** - *Udemy Instrutor Fernando Amaral* - jun. 2022 - 8 horas/aula
