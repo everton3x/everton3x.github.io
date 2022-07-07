@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**14º ERCO - Encontro Regional de Controle e Orientação - Santo Ângelo** - *Escola Superior de Gestão e Controle Francisco Juruena/Tribunal de Contas do Estado do Rio Grande do Sul* - jun. 2022 - 2,50 horas/aula
+
 **14º ERCO - Tema 2 - Conhecendo o novo parecer prévio do Poder Executivo Municipal** - *Escola Superior de Gestão e Controle Francisco Juruena/Tribunal de Contas do Estado do Rio Grande do Sul* - jun. 2022 - 1,50 horas/aula
 
 **14º ERCO - Tema 8 - Alterações no cálculo de despesa com pessoal e nos índices constitucionais de MDE e ASPS** - *Escola Superior de Gestão e Controle Francisco Juruena/Tribunal de Contas do Estado do Rio Grande do Sul* - jun. 2022 - 1,25 horas/aula
