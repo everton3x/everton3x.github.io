@@ -51,7 +51,7 @@ Desenvolveu um sistema para gestão de estoques de grãos da Fábrica de
 Ração do grupo.
 
 
-**Exército Brasileiro / Hospital de Guarnição de Santo Ângelo - entre julho de 2000 e julho de 2006 (6 anos 1 mês)**
+**Exército Brasileiro / Hospital de Guarnição de Santo Ângelo - entre julho de 2000 e julho de 2007 (7 anos)**
 
 *Recruta / Soldado do Núcleo-Base / Cabo*
 
