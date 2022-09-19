@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso sobre Elaboração do orçamento para 2023 com ênfase na Nova Classificação da Receita e Fontes de Recursos para 2023** - *DPM Educação/FEMA* - set. 2022 - 10 horas/aula
+
 **Curso teórico e prático sobre Processos Digitais e Contabilidade - REINF** - *Abase Sistemas e Soluções Ltda.* - ago. 2022 - 5 horas/aula
 
 **14º ERCO - Encontro Regional de Controle e Orientação - Santo Ângelo** - *Escola Superior de Gestão e Controle Francisco Juruena/Tribunal de Contas do Estado do Rio Grande do Sul* - jun. 2022 - 2,50 horas/aula
