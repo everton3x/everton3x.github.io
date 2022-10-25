@@ -17,7 +17,7 @@ Entretanto, caso você encontre um erro ou tenha uma sugestão de melhoria, fica
 
 Caso você necessite de uma ajuda ou queira um trabalho personalizado, estou disponível para negócios. Prometo não querer enriquecer às suas custas 😁.
 
-Se você gostou do meu conteúdo, se ele foi útil para você ou se você é só um cara legal, que tal me pagar um ☕?
+Se você gostou do meu conteúdo, se ele foi útil para você ou se você é só um cara legal, que tal me pagar um café ☕?
 
 **PIX copia-e-cola:**
 
@@ -25,7 +25,7 @@ Se você gostou do meu conteúdo, se ele foi útil para você ou se você é só
 
 **PIX QR Code:**
 
-![PIX QR Code](images/pix-inter.jpg)
+![PIX QR Code](/images/pix-inter.jpg)
 
 ---
 
@@ -40,6 +40,7 @@ Calcula a RCL e a DTP, disponibiliza para impressão os anexos 1 do RGF e 3 do R
 
 Versões disponíveis
 : [v 1.0.0](planilhas/Planilha de Cálculo da RCL e DTP v1.0.0.xlsx): anexos de acordo com o MDF 12ª edição (válido para 2022)
+---
 
 
 ---
