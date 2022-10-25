@@ -25,7 +25,7 @@ Se você gostou do meu conteúdo, se ele foi útil para você ou se você é só
 
 **PIX QR Code:**
 
-![PIX QR Code](/images/pix-inter.jpg)
+<img alt="PIX QR Code" src="/images/pix-inter.jpg" height="278px" width="216px">
 
 ---
 
