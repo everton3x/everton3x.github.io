@@ -17,16 +17,6 @@ Entretanto, caso você encontre um erro ou tenha uma sugestão de melhoria, fica
 
 Caso você necessite de uma ajuda ou queira um trabalho personalizado, estou disponível para negócios. Prometo não querer enriquecer às suas custas 😁.
 
-Se você gostou do meu conteúdo, se ele foi útil para você ou se você é só um cara legal, que tal me pagar um café ☕?
-
-**PIX copia-e-cola:**
-
-00020101021126360014br.gov.bcb.pix0114+55559844936565204000053039865802BR5915EVERTON DA ROSA6012TRES DE MAIO62070503***6304E4F2
-
-**PIX QR Code:**
-
-<img alt="PIX QR Code" src="/images/pix-inter.jpg" height="278px" width="216px">
-
 ---
 
 ## Arquivos disponíveis
@@ -39,7 +29,7 @@ Calcula a RCL e a DTP, disponibiliza para impressão os anexos 1 do RGF e 3 do R
 É possível a parametrização das informações a fim de adaptar a metodologia de cálculo da forma desejada.
 
 Versões disponíveis
-: [v 1.0.1](Planilha de Cálculo da RCL e DTP v1.0.0.xlsx): anexos de acordo com o MDF 12ª edição (válido para 2022)
+: [v 1.0.2](Planilha de Cálculo da RCL e DTP v1.0.2.xlsx): anexos de acordo com o MDF 12ª edição (válido para 2022)
 ---
 
 
