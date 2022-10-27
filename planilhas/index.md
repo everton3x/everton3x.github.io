@@ -33,6 +33,15 @@ Versões disponíveis
 ---
 
 
+### Cálculo dos Resultados Primário e Nominal e das Dívidas Consolidada e Consolidada Líquida
+Calcula os Resultados Primário e Nominal e a DC e DCL, disponibiliza para impressão os anexos 2 do RGF e 6 do RREO.
+
+É possível a parametrização das informações a fim de adaptar a metodologia de cálculo da forma desejada.
+
+Versões disponíveis
+: [v 1.0.0](Resultados Primário e Nominal e Dívida Consolidada v1.0.0.xlsx): anexos de acordo com o MDF 12ª edição (válido para 2022)
+---
+
 ---
 **Notas de rodapé** [[Voltar ao topo](#)]
 
