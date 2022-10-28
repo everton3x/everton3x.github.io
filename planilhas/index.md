@@ -56,6 +56,15 @@ Versões disponíveis
 : [v 1.0.0](Converter MSC v1.0.0.xlsx)
 ---
 
+### Conferência da MSC
+Auxilia na conferência dos dados gerados em CSV para o envio da MSC ao SICONFI.
+
+Para sua utilização é necessária a conversão dos arquivos CSV gerados para envio da MSC através [Conversor de dados da MSC](#conversor-de-dados-da-msc).
+
+Versões disponíveis
+: [v 1.0.0](Conferência MSC v1.0.0.xlsx)
+---
+
 ---
 **Notas de rodapé** [[Voltar ao topo](#)]
 
