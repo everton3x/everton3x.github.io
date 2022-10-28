@@ -32,7 +32,6 @@ Versões disponíveis
 : [v 1.0.2](Planilha de Cálculo da RCL e DTP v1.0.2.xlsx): anexos de acordo com o MDF 12ª edição (válido para 2022)
 ---
 
-
 ### Cálculo dos Resultados Primário e Nominal e das Dívidas Consolidada e Consolidada Líquida
 Calcula os Resultados Primário e Nominal e a DC e DCL, disponibiliza para impressão os anexos 2 do RGF e 6 do RREO.
 
@@ -40,6 +39,21 @@ Calcula os Resultados Primário e Nominal e a DC e DCL, disponibiliza para impre
 
 Versões disponíveis
 : [v 1.0.0](Resultados Primário e Nominal e Dívida Consolidada v1.0.0.xlsx): anexos de acordo com o MDF 12ª edição (válido para 2022)
+---
+
+### Conversor de dados da MSC
+Converte os dados de arquivos CSV gerados para envio à MSC do SICONFI
+
+Esta pasta de trabalho converte os campos de informações complementares em colunas. Por exemplo:
+
+Para a informação complementar PO, que pode estar distribuídas em 6 campos de informações complementares, é criada uma única coluna com os valores de PO.
+
+Isso é feito para cada um dos tipos de informações complementares da MSC.
+
+Adicionalmente, são feitas algumas conversões convenientes quanto aos valores de saldo inicial, movimentação do mês e saldo final.
+
+Versões disponíveis
+: [v 1.0.0](Converter MSC v1.0.0.xlsx)
 ---
 
 ---
