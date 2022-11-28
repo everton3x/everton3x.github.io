@@ -29,6 +29,7 @@ Calcula a RCL e a DTP, disponibiliza para impressão os anexos 1 do RGF e 3 do R
 É possível a parametrização das informações a fim de adaptar a metodologia de cálculo da forma desejada.
 
 Versões disponíveis
+: [v 1.0.3](Planilha de Cálculo da RCL e DTP v1.0.3.xlsx): anexos de acordo com o MDF 12ª edição (válido para 2022)
 : [v 1.0.2](Planilha de Cálculo da RCL e DTP v1.0.2.xlsx): anexos de acordo com o MDF 12ª edição (válido para 2022)
 ---
 
