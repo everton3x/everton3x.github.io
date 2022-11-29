@@ -65,6 +65,22 @@ Versões disponíveis
 : [v 1.0.0](Conferência MSC v1.0.0.xlsx)
 ---
 
+### Conversor de dados do SIAPC/PAD: BAL_VER
+Converte os dados gerados para o SIAPC/PAD do arquivo BAL_VER.txt para o MS Excel.
+
+Adicionalmente, são feitas algumas conversões convenientes quanto aos valores de saldo inicial, movimentação do mês e saldo final.
+
+Versões disponíveis
+: [v 1.0.0](Converter BAL_VER v1.0.0.xlsx)
+---
+
+### Conversor de dados do SIAPC/PAD: TCE_4111
+Converte os dados gerados para o SIAPC/PAD do arquivo TCE_4111.txt para o MS Excel.
+
+Versões disponíveis
+: [v 1.0.0](Converter TCE_4111 v1.0.0.xlsx)
+---
+
 ---
 **Notas de rodapé** [[Voltar ao topo](#)]
 
