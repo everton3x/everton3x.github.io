@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso sobre encerramento do Exercício de 2022** - *DPM Educação/FEMA* - dez. 2022 - 14 horas/aula
+
 **53º Encontro Anual sobre Orçamento e Contabilidade Pública** - *DPM Educação/FEMA* - set. 2022 - 7 horas/aula
 
 **Curso sobre Elaboração do orçamento para 2023 com ênfase na Nova Classificação da Receita e Fontes de Recursos para 2023** - *DPM Educação/FEMA* - set. 2022 - 10 horas/aula
