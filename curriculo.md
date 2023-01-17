@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Formação Profissional Python 2022: Curso Completo + Projetos** - *EIA - Escola de Inteligência Artificial* - jan. 2023 - 80 horas/aula
+
 **Curso de Aperfeiçoamento (extensão universitária): Avaliação de Políticas Públicas: aspectos teóricos e metodológicos** - *UFRGS* - jul. a set. 2022 - 20 horas/aula
 
 **Curso de Aperfeiçoamento (extensão universitária): Introdução à Programação em Python para o Controle Externo** - *UFRGS* - jul. a set. 2022 - 20 horas/aula
