@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso de IRRF (Instrução Normativa - RFB nº 1.234/2012 e escrituração digital - REINF)** - *DPM Educação/FEMA* - mar. 2023 - 14 horas/aula
+
 **Formação Profissional Python 2022: Curso Completo + Projetos** - *EIA - Escola de Inteligência Artificial* - jan. 2023 - 80 horas/aula
 
 **Curso de Aperfeiçoamento (extensão universitária): Avaliação de Políticas Públicas: aspectos teóricos e metodológicos** - *UFRGS* - jul. a set. 2022 - 20 horas/aula
