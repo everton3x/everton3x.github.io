@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Fundamentos de Engenharia de Dados** - *Data Science Academy* - mar. 2023 - 24 horas/aula
+
 **Curso de IRRF (Instrução Normativa - RFB nº 1.234/2012 e escrituração digital - REINF)** - *DPM Educação/FEMA* - mar. 2023 - 14 horas/aula
 
 **Formação Profissional Python 2022: Curso Completo + Projetos** - *EIA - Escola de Inteligência Artificial* - jan. 2023 - 80 horas/aula
