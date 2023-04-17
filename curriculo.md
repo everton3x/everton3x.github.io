@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso sobre RREO e RGF: análise e conferência à luz da 13ª edição do MDF/STN e das IN 12/2022 e 13/2022 do TCE/RS** - *DPM Educação/FEMA* - abr. 2023 - 10 horas/aula
+
 **Fundamentos de Engenharia de Dados** - *Data Science Academy* - mar. 2023 - 24 horas/aula
 
 **Curso de IRRF (Instrução Normativa - RFB nº 1.234/2012 e escrituração digital - REINF)** - *DPM Educação/FEMA* - mar. 2023 - 14 horas/aula
