@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso sobre Elaboração da Lei Orçamentária Anual (LOA) para o exercício de 2024** - *DPM Educação/FEMA* - set. 2023 - 14 horas/aula
+
 **4ª Semana Contábil e Fiscal para Estados e Municípios (Secofem)** - *Conselho Federal de Contabilidade* - jun. 2023 - 28 horas/aula
 
 **Curso sobre Contabilidade aplicada aos Regimes Próprios de Previdência Social: com ênfase à IPC nº 14 e ao MCASP** - *DPM Educação/FEMA* - jun. 2023 - 10 horas/aula
