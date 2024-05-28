@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso de Extensão Design Centrado no usuário** - *Escola Politécnica/PUC-RS* - mai. 2024 - 10 horas/aula
+
 **Curso sobre encerramento do Exercício de 2023** - *DPM Educação/FEMA* - nov. 2023 - 12 horas/aula
 
 **Curso sobre Elaboração da Lei Orçamentária Anual (LOA) para o exercício de 2024** - *DPM Educação/FEMA* - set. 2023 - 14 horas/aula
