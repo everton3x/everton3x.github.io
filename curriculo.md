@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso de Estatística (Turma Ago/2024)** - *Escola Nacional de Administração Pública - ENAP* - ago. 2024 - 20 horas/aula
+
 **Curso de Extensão Design Centrado no usuário** - *Escola Politécnica/PUC-RS* - mai. 2024 - 10 horas/aula
 
 **Curso sobre encerramento do Exercício de 2023** - *DPM Educação/FEMA* - nov. 2023 - 12 horas/aula
