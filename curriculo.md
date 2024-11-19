@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**SIAPC 25ª Edição 2024** – *Escola Superior de Gestão e Controle Francisco Juruena* – nov. 2024 – 4 horas/aula
+
 **Curso sobre Elaboração da Lei Orçamentária Anual (LOA) para o exercício de 2025** - *DPM Educação/FEMA* - set. 2024 - 10 horas/aula
 
 **Curso de Estatística (Turma Ago/2024)** - *Escola Nacional de Administração Pública - ENAP* - ago. 2024 - 20 horas/aula
