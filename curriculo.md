@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Planejamento e Organização Pessoal no Trabalho** - *Escola Nacional de Administração Pública - Enap* - jun. 2025 - 20 horas/aula
+
 **Português - Interpretação de Texto e Emprego de Regras Gramaticais** - *Escola Nacional de Administração Pública - Enap* - jun. 2025 - 40 horas/aula
 
 **Primeiros passos para uso de Linguagem Simples** - *Escola Nacional de Administração Pública - Enap* - mai. 2025 - 8 horas/aula
