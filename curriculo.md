@@ -84,6 +84,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Gestão do Tempo e Produtividade** - *Escola Nacional de Administração Pública - Enap* - jun. 2025 - 40 horas/aula
+
 **Planejamento e Organização Pessoal no Trabalho** - *Escola Nacional de Administração Pública - Enap* - jun. 2025 - 20 horas/aula
 
 **Português - Interpretação de Texto e Emprego de Regras Gramaticais** - *Escola Nacional de Administração Pública - Enap* - jun. 2025 - 40 horas/aula
