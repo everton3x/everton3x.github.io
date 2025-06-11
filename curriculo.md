@@ -24,10 +24,14 @@
 
 Foi membro das comissões de Licitação (Presidente) e de Pregão (Pregoeiro), além de integrar diversas comissões, tais como de transição de mandato, Controle Interno, entre outras.
 
+Desenvolveu e implantou diversas rotinas automatizadas para diferentes tarefas da sua área de atuação utilizando Microsoft Excel e diversas linguagens de programação.
+
+Desenvolveu sistemas de controle de vale-alimentação e de verificação e geração de decretos de créditos adicionais.
+
 
 **Prefeitura Municipal de Nova Candelária (RS) - entre junho de 2019 e maio de 2020 (1 ano)**
 
-*Consultor de contabilidade*
+*Consultor e Mentor em Contabilidade Pública*
 
 Atividade de consultoria e mentoria para servidora ingressante no cargo de Contadora do Município.
 
