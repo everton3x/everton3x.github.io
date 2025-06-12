@@ -88,6 +88,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**PRINCE2 - Outra maneira de gerenciar projetos na administração pública** - *Escola Nacional de Administração Pública - Enap* - jun. 2025 - 25 horas/aula
+
 **Scrum no contexto do serviço público** - *Escola Nacional de Administração Pública - Enap* - jun. 2025 - 15 horas/aula
 
 **Gestão do Tempo e Produtividade** - *Escola Nacional de Administração Pública - Enap* - jun. 2025 - 40 horas/aula
