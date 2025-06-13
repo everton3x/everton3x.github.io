@@ -88,6 +88,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Lei de Benford com R e Excel: detecte fraudes e anomalias** - *EIA - Escola de Inteligência Artificial* - jun. 2025 - 4 horas/aula
+
 **PRINCE2 - Outra maneira de gerenciar projetos na administração pública** - *Escola Nacional de Administração Pública - Enap* - jun. 2025 - 25 horas/aula
 
 **Scrum no contexto do serviço público** - *Escola Nacional de Administração Pública - Enap* - jun. 2025 - 15 horas/aula
