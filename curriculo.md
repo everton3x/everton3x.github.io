@@ -88,6 +88,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**"Big Data Básico** - * Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais* - set. 2025 - 40 horas/aula
+
 **Curso On-line sobre Elaboração da Lei Orçamentária Anual para 2026** - *DPM Educação/FEMA* - ago. 2025 - 8 horas/aula
 
 **Curso sobre Elaboração da Lei de Diretrizes Orçamentárias para 2026** - *DPM Educação/FEMA* - jul. 2025 - 8 horas/aula
