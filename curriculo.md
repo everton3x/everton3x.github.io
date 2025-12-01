@@ -88,6 +88,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso On-line sobre encerramento do exercício de 2025** - *DPM Educação/FEMA* - nov. 2025 - 10,5 horas/aula
+
 **SIAPC 26ª Edição 2025** – *Escola Superior de Gestão e Controle Francisco Juruena* – nov. 2025 – 6 horas/aula
 
 **"Big Data Básico** - * Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais* - set. 2025 - 40 horas/aula
