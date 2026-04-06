@@ -88,6 +88,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso On-line sobre Reforma Tributária: Emenda Constitucional nº 132/2023, LC nº 214/2025 e os principais aspectos jurídico-procidementais do IBS (com as modificações da LC nº 227/2026)** - *DPM Educação/FEMA* - abr. 2026 - 8 horas/aula
+
 **Curso On-line sobre encerramento do exercício de 2025** - *DPM Educação/FEMA* - nov. 2025 - 10,5 horas/aula
 
 **SIAPC 26ª Edição 2025** – *Escola Superior de Gestão e Controle Francisco Juruena* – nov. 2025 – 6 horas/aula
