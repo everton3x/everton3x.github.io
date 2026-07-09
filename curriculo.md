@@ -88,6 +88,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso sobre elaboração da Lei de Diretrizes Orçamentárias - LDo para 2027** - *DPM Educação/FEMA* - jul. 2026 - 11 horas/aula
+
 **Comitê de Investimentos: Painel Estratégico de Investimentos e Cenário Econômico** - *Gestor Um Educação Ltda* - jun. 2026 - 7 horas/aula
 
 **CP RPPS CGINV II - Certificação do responsável pela gestão dos recursos e membros do comitê de investimentos do RPPS** - *Instituto Totum* - abr. 2026
