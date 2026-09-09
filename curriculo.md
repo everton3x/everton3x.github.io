@@ -88,6 +88,8 @@ Bacharelado, Contabilidade - (2002 - 2005)
 
 ## Aperfeiçoamento Pessoal e Profissional
 
+**Curso sobre Demonstrações Contábeis das Entidades Públicas** - *DPM Educação/FEMA* - ago. 2026 - 8 horas/aula
+
 **Curso sobre Reforma Tributária do Consumo - RTC: o Regulamento do IBS (Resolução CG-IBS nº 06/2026) e seus impactos nos Municípios** - *DPM Educação/FEMA* - ago. 2026 - 14 horas/aula
 
 **Curso sobre elaboração da Lei de Diretrizes Orçamentárias - LDO para 2027** - *DPM Educação/FEMA* - jul. 2026 - 11 horas/aula
